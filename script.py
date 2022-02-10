@@ -1,3 +1,3 @@
 print("What is your name?")
 name = input()
-print("Hello {name}".format(name=name)
+print("Hello {name}".format(name=name))
